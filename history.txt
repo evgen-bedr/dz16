@@ -1,0 +1,247 @@
+    1  git --version
+    2  git --version
+    3  ssh -i /c/ff/id_res.pub ec2-user@linux.itcareerhub.de
+    4  ssh -i /c/ff/id_res ec2-user@linux.itcareerhub.de
+    5  ssh -T git@github.com
+    6  Start-Service ssh-agent
+    7  ssh-add C:\ff\id_rsa
+    8  ssh-add C:\ff\id_rsa
+    9  Start-Service ssh-agent
+   10  Start-Service ssh-agent
+   11  Set-Servise -Name ssh-agent -StartupType 'Automatic'
+   12  systemctl status ssh
+   13  ssh
+   14  ssh git@github.com:redrif48/Python_l.git
+   15  ssh -T git@github.com
+   16  ssh -i C:\ff\id_rsa git@github.com
+   17  ssh -i "C:\ff\id_rsa" git@github.com
+   18  ssh-agent
+   19  ssh-add
+   20  eval $(ssh-agent -s)
+   21  eval $(ssh-agent -s)
+   22  Start-SshAgent -Confirm:$false
+   23  ssh-add "C:\ff\id_rsa"
+   24  git push -u origin main
+   25  ssh -T git@github.com
+   26  ssh-add "C:\ff\id_rsa"
+   27  ssh -T git@github.com
+   28  eval "$(ssh-agent -s)"
+   29  ssh-add -l -E sha256
+   30  ssh-add "C:\ff\id_rsa"
+   31  ssh-add -l -E sha256
+   32  ssh -vY git@github.com
+   33  ssh-agent -s
+   34  ssh-agent -l -E sha256
+   35  ssh-agent -I -E sha256
+   36  ssh-add -l -E sha256
+   37  ssh-add
+   38  ssh-add -l -E sha256
+   39  ssh-add
+   40  git remote set-url origin git@github.com:redrif48/Python_l.git
+   41  eval $(ssh-agent -s)
+   42  ssh-add "C:\ff\id_rsa"
+   43  git remote set-url origin git@github.com:redrif48/Python_l.git
+   44  git remote add origin git@github.com:redrif48/Python_l.git
+   45  git push -u origin main
+   46  history
+   47  cd
+   48  cd c:
+   49  cd
+   50  ls
+   51  cd /c
+   52  ls
+   53  history > /c/his.txt
+   54  ssh-agent
+   55  git remote add origin https://github.com/redrif48/Python_l.git
+   56  echo "# dzp" >> README.md
+   57  git init
+   58  cd /C/PythonProjects/MyProject1/MyProject1/lesson1
+   59  git init
+   60  git add README.md
+   61  git commit -m "first commit"
+   62  git remote add origin git@github.com:redrif48/dzp.git
+   63  git remote -v
+   64  cd ..
+   65  git remote set-url origin git@github.com:redrif48/dzp.git
+   66  git remote remove origin
+   67  git remote add origin git@github.com:redrif48/dzp.git
+   68  git remote -v
+   69  git init
+   70  git add .
+   71  git commit -m "Инициализация репозитория и добавление файлов"
+   72  git remote -v
+   73  git remote -v
+   74  git push -u origin main
+   75  rm -rf lesson1/.git
+   76  git add .
+   77  git commit -m "Инициализация репозитория и добавление файлов"
+   78  git remote -v
+   79  git push -u origin main
+   80  git remote add origin git@github.com:redrif48/dzp.git
+   81  git remote -v
+   82  git add .
+   83  git commit -m "Инициализация репозитория и добавление файлов"
+   84  git push -u origin main
+   85  git remote -v
+   86  ssh-agent
+   87  ssh-add /c/ff/id_rsa
+   88  Start-Service ssh-agent
+   89  ssh-add /c/ff/id_rsa
+   90  exec ssh-agent bash
+   91  eval ssh-agent -s
+   92  ssh-add /c/ff/id_rsa
+   93  git remote -v
+   94  git add .
+   95  git commit -m "Инициализация репозитория и добавление файлов"
+   96  git push -u origin main
+   97  git add lesson1/
+   98  git commit -m "Добавил содержимое lesson1"
+   99  git push origin main
+  100  rm -rf lesson1/.git
+  101  git add /C/PythonProjects/MyProject1/MyProject1/lesson1/.git
+  102  cd lesson1
+  103  add git
+  104  rm -rf lesson1/.git
+  105  git add lesson1/
+  106  git submodule update --init
+  107  git rm --cached lesson1
+  108  rm -rf lesson1/.git
+  109  git add .
+  110  git add lesson2/
+  111  cd ..
+  112  git add lesson2/
+  113  git commit -m "Добавил содержимое lesson2"
+  114  cd lesson2
+  115  git add .
+  116  git commit -m "Добавил содержимое lesson2"
+  117  git push origin main
+  118  git push origin main
+  119  git push origin main
+  120  exit
+  121  evn
+  122  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  123  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  124  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  125  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  126  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  127  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  128  cat /c/ff/id_rsa.pub
+  129  ssh -T git@github.com
+  130  ssh -vT git@github.com
+  131  ssh -vT git@github.com
+  132  ssh -T git@github.com
+  133  mkdir /c/test_repo
+  134  cd test_repo
+  135  cd /c/test_repo
+  136  git init
+  137  ls -la
+  138  echo "HELLO FROM THE LOCAL GIT" > README.md
+  139  git status
+  140  git add README.md
+  141  git status
+  142  git commit -m "Add new file"
+  143  git remote add origin git@github.com:redrif48/test_repo.git
+  144  git push -u origin main
+  145  rm -r test_repo/
+  146  rm -r /c/test_repo/
+  147  rm -rf /c/test_repo/
+  148  git clone git@github.com:redrif48/ICH.git
+  149  git clone https://github.com/ArefaEvgeniy/ICH.git
+  150  git clone git@github.com:ArefaEvgeniy/ICH.git
+  151  git status
+  152  mkdir /c/test_repo
+  153  git init /c/test_repo
+  154  git status
+  155  git pull origin main
+  156  git pull test_repo main
+  157  ssh-keygen -p
+  158  ssh-keygen -p /c/Users/User/.ssh/id_rsa
+  159  ssh-keygen -p
+  160  git clone git@github.com:ArefaEvgeniy/ICH.git
+  161  git clone git@github.com:ArefaEvgeniy/ICH.git
+  162  git clone git@github.com:ArefaEvgeniy/ICH.git
+  163  git status
+  164  ls -la /c/PythonProjects/
+  165  ls -la /c/PythonProjects/MyProject1
+  166  rmdir /s /q /c/PythonProjects/MyProject1.git
+  167  ls -la /c/PythonProjects/MyProject1
+  168  rmdir /s /q /c/PythonProjects/MyProject1/.git
+  169  cd /c/PythonProjects/MyProject1
+  170  ls -la
+  171  rmdir /s /q .git
+  172  rmdir /s /q /c/PythonProjects/MyProject1/.git
+  173  rmdir /s /q .git
+  174  rmdir /s /q .git
+  175  rmdir /s /q "C:\PythonProjects\MyProject1\.git"
+  176  rmdir /s /q .git
+  177  ls -la
+  178  rmdir /s /q .git
+  179  fuser .git
+  180  lsof | grep '.git'
+  181  rmdir /s /q .git
+  182  rmdir -rvf .git
+  183  rmdir /s /q .git
+  184  cd ..
+  185  cd /d/git_intro/
+  186  ls -la
+  187  git init
+  188  git add -m scale_1200.jpg
+  189  git add scale_1200.jpg
+  190  git commit -m "Added photo"
+  191  git@github.com:evgen-bedr/git_intro.git
+  192  git remote add origin git@github.com:evgen-bedr/git_intro.git
+  193  git push -u origin main
+  194  exit
+  195  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  196  ls
+  197  ls -la
+  198  cd /tmp
+  199  ls -la
+  200  ls
+  201  cd .
+  202  ls
+  203  cd ..
+  204  ls
+  205  exit
+  206  ssh -i /c/ff/id_rsa ec2-user@linux.itcareerhub.de
+  207  ls
+  208  exit
+  209  ssh -i /c/user/user/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  210  ls
+  211  cd /c/Users/User/Desktop
+  212  git clone git@github.com:evgen-bedr/git_linux_L12.git
+  213  cd git_linux_L12/
+  214  git branch
+  215  nano .gitignore
+  216  ls -;a
+  217  la -la
+  218  ls -la
+  219  git status
+  220  git checkout -b task_1
+  221  ls -la
+  222  nano greet.py
+  223  ls -la
+  224  git status
+  225  git add greet.py
+  226  git status
+  227  git commit -m "add gr file"
+  228  git push origin task_1
+  229  cd ..
+  230  git clone git@github.com:evgen-bedr/dz16.git
+  231  cd dz16
+  232  nano .gitignore
+  233  git checkout -b feature
+  234  git add README.md .gitignore
+  235  git commit -m "add README and .gitignore"
+  236  git push -u origin feature
+  237  git commit --amend -m "add README and .gitignore amend"
+  238  git push origin feature
+  239  git push origin feature --force
+  240  git checkout main
+  241  git checkout main
+  242  ls -la
+  243  git branch -a
+  244  git checkout -b main
+  245  git push -u origin main
+  246  git merge feature
+  247  history > history.txt
